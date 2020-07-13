@@ -49,9 +49,7 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
-              "scripts": [
-                "src/assets/scripts/analytics.js"
-              ]
+              "scripts": ["src/assets/scripts/analytics.js"]
             }
           }
         },
@@ -134,8 +132,5 @@
     "@schematics/angular:directive": {
       "prefix": "app"
     }
-  },
-  "cli": {
-    "analytics": "39fa7052-8856-4dc6-8b4b-965879625b54"
   }
 }
